@@ -1,0 +1,7 @@
+The aim is to fill all 81 boxes with numbers from 1 to 9
+You are given a set of already filled squares
+You are to fill in the remaining adhering to certain norms
+Every row and column must contain all the digits from 1-9 and each must
+occur only once
+The same is applicable to every 3x3 box also
+You win if you fill all 81 correctly, else you lose
